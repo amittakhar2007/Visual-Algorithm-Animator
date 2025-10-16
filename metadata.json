@@ -1,0 +1,5 @@
+{
+  "name": "Visual Algorithm Animator",
+  "description": "An interactive web application for visualizing sorting algorithms. Users can input a dataset, select an algorithm, and watch the step-by-step execution, complete with real-time performance metrics.",
+  "requestFramePermissions": []
+}
